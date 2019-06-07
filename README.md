@@ -31,9 +31,7 @@ Our data preprocessing and topolstm structure refer to
     train.py : Training TopoLSTM
     test.py : Predict our test data
 
-## Embedding Data
-
-Using node2vec to get embedding:
+## Use Data
 [data link](https://drive.google.com/drive/folders/1HeutDaYU9XiZov-wEPCagX_xZCHHxLz5?usp=sharing)
 
 ## Citing
