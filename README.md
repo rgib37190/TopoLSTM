@@ -32,6 +32,7 @@ Our data preprocessing and topolstm structure refer to
     test.py : Predict our test data
 
 ## Use Data
+You can get data from following link :
 [data link](https://drive.google.com/drive/folders/1HeutDaYU9XiZov-wEPCagX_xZCHHxLz5?usp=sharing)
 
 ## Citing
